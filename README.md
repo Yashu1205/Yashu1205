@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Yashu1205
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React and Redux.
+- 💞️ I’m looking to explore new technologies.
+
+
 - 📫 How to reach me ...
 
 <!---
