@@ -6,6 +6,7 @@
 
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/yashoda-bhattarai-b74288198/
+- er.yashoda@gmail.com
 
 <!---
 Yashu1205/Yashu1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
